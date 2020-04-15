@@ -1,0 +1,10 @@
+insert into AlphameticPuzzle values(1,'as','a', 'mom', 'dad', 'sis');
+insert into AlphameticPuzzle values(2, 'I', 'did','too','that','this');
+insert into AlphameticPuzzle values(3, 'so', 'so', 'too', 'tee', 'it');
+insert into AlphameticPuzzle values(4, 'oh', 'go', 'gee', 'hee', 'hae');
+insert into AlphameticPuzzle values(5, 'coca', 'cola', 'oasis', 'osaka', 'osaki');
+insert into AlphameticPuzzle values(6, 'is', 'this', 'here', 'there', 'that');
+insert into AlphameticPuzzle values(7, 'to', 'go', 'out', 'there', 'this');
+insert into AlphameticPuzzle values(8, 'us', 'as', 'all', 'hey', 'hi');
+insert into AlphameticPuzzle values(9, 'di', 'is', 'ill', 'ear', 'eye');
+insert into AlphameticPuzzle values(10, 'dan', 'nan', 'nora', 'near', 'noon');

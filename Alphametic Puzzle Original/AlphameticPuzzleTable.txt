@@ -1,0 +1,9 @@
+create table AlphameticPuzzle(
+no integer(10) not null,
+fGWords char(9) not null,
+sGWords char(9) not null,
+calculatedAns char(10) not null,
+fakeAns1 char(10) ,
+fakeAns2 char(10),
+primary key(no)
+);

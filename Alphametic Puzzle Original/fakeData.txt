@@ -1,0 +1,4 @@
+create table fakeData(
+no integer,
+fakeAns char(10) not null
+);

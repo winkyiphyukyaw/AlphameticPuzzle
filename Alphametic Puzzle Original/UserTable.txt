@@ -1,0 +1,5 @@
+create table User(
+name char(10),
+mark integer not null
+
+);
